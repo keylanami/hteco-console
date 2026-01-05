@@ -4,8 +4,6 @@
 >
 > Platform monitoring emisi kendaraan berbasis web yang mengintegrasikan Frontend modern (Next.js) dengan Backend Java (Javalin) yang menerapkan prinsip-prinsip OOP secara ketat.
 
-![HTECO Banner](https://via.placeholder.com/1000x300?text=HTECO+Dashboard+Preview) 
-*(Ganti link di atas dengan screenshot dashboard aplikasi kamu nanti)*
 
 ---
 
